@@ -9,9 +9,9 @@ AutoCVFan removes yet another distraction in the driver's seat. Using OpenCV and
 
 # License
 This project is released under the MIT license, see `LICENSE` for more info.
-# The Team
-Lori Cui - [LinkedIn](https://www.linkedin.com/farzadrahman), [Website](https://farzadr.me) <br>
-Quinn Ivison - [LinkedIn](https://www.linkedin.com/farzadrahman), [Website](https://farzadr.me) <br>
+# The Original Team
+Lori Cui <br>
+Quinn Ivison <br>
 Joonseo Lee - [LinkedIn](https://www.linkedin.com/joonsauce), [Website](https://joonsauce.me) <br>
-Lori Cui - [LinkedIn](https://www.linkedin.com/farzadrahman), [Website](https://farzadr.me) 
+Brant Shi
 
